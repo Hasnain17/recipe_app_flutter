@@ -6,6 +6,9 @@ Got it! Since this is just a design implementation at this stage, here's the upd
 
 This project is a **Flutter UI design implementation** for a recipe application. The app's current focus is on the frontend, providing a clean and intuitive design for users to browse and explore recipes. Functionality such as API integration, data management, or user authentication is not implemented yet—this version solely showcases the layout and design.
 
+![image](https://github.com/user-attachments/assets/f04fdb4d-ebe4-46c1-be4c-50a6f1f406df)
+
+
 ## Features
 
 - **Search Bar**: A search field allows users to type and search for specific recipes.
