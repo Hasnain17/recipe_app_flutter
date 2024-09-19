@@ -1,10 +1,6 @@
-Got it! Since this is just a design implementation at this stage, here's the updated README file for your Flutter project, focusing on the design aspects.
-
----
-
 # Recipe App - Design Implementation
 
-This project is a **Flutter UI design implementation** for a recipe application. The app's current focus is on the frontend, providing a clean and intuitive design for users to browse and explore recipes. Functionality such as API integration, data management, or user authentication is not implemented yet—this version solely showcases the layout and design.
+This project is a **Flutter UI design implementation** for a recipe application. The app focuses on the front end, providing a clean and intuitive design for users to browse and explore recipes. Functionalities such as API integration, data management, or user authentication have not yet been implemented—this version solely showcases the layout and design.
 
 
 ## Features
